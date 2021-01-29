@@ -1,5 +1,5 @@
 {
-  "name": "component-factory",
+  "name": "angular-component-factory",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
